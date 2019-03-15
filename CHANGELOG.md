@@ -1,3 +1,7 @@
+# 1.0.8
+
+* 1.0.7 release
+
 # 1.0.7
 
 No changelog provided

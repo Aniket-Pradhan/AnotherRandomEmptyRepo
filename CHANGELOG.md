@@ -1,3 +1,6 @@
+# 2.0.1
+
+No changelog provided
 # 2.0.0
 
 No changelog provided
